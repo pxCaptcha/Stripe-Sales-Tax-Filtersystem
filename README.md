@@ -17,7 +17,7 @@ under "Columns" Custom. Select at least these values:
 
 ![g](https://user-images.githubusercontent.com/53152165/116849253-b7d9c300-abee-11eb-8b4d-cceaae96d8b9.PNG)
 
-<br/>
+
 After you got the new file, which should be called "unified_payments.csv" you just drag it into the filter system folder, and run
 
 ```

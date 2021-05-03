@@ -11,4 +11,6 @@ To run this project, first install package.json, package-lock.json and the filte
 $ npm install -i
 ```
 <br/>
-After you have installed everything, we need to get the csv file from Stripe. Under Payments -> Succeeded, on the right top you can find "Export"
+After you have installed everything, we need to get the csv file from Stripe. Under Payments -> Succeeded, on the right top you can find "Export", there at the bottom you select 
+under "Columns" Custom. Select at least these values:
+![Uploading g.PNG…]()

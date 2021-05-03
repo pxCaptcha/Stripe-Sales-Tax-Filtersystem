@@ -1,4 +1,4 @@
-# Stripe-Sales-tax-Filtersystem
+# Stripe-Sales-Tax-Filtersystem
 
 What is this program doing?
 A tax sales filter system for Stripe, where your exported sales in a csv, would filter you out that for example 21 people out of Italy paid 495,34€ this month and for Germany 23 people paid * and so going on...

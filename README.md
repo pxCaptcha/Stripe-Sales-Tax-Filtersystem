@@ -19,6 +19,7 @@ under "Columns" Custom. Select at least these values:
 
 <br/>
 After you got the new file, which should be called "unified_payments.csv" you just drag it into the filter system folder, and run
+
 ```
 $ node filter.js
 ```

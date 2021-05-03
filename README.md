@@ -13,7 +13,7 @@ $ npm install -i
 <br/>
 After you have installed everything, we need to get the csv file from Stripe. Under Payments -> Succeeded, on the right top you can find "Export", there at the bottom you select 
 under "Columns" Custom. Select at least these values:
-<br/>j
+ <br/> 
 
 ![g](https://user-images.githubusercontent.com/53152165/116849253-b7d9c300-abee-11eb-8b4d-cceaae96d8b9.PNG)
 

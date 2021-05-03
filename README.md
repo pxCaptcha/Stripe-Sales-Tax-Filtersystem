@@ -17,3 +17,12 @@ under "Columns" Custom. Select at least these values:
 
 ![g](https://user-images.githubusercontent.com/53152165/116849253-b7d9c300-abee-11eb-8b4d-cceaae96d8b9.PNG)
 
+<br/>
+After you got the new file, which should be called "unified_payments.csv" you just drag it into the filter system folder, and run
+```
+$ node filter.js
+```
+
+<br/>
+It will now filter all your data, obviously only on your end!, and create a new file called "filteredPayment.json", if you dont want it to export in a json you can change this at line 39! :)
+<br/>

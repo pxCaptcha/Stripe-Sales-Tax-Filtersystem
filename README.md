@@ -24,6 +24,6 @@ After you got the new file, which should be called "unified_payments.csv" you ju
 $ node filter.js
 ```
 
-It will now filter all your data, obviously only on your end!, and create a new file called "filteredPayment.json", if you dont want it to export in a json you can change this at line 39! :)
+It will now filter all your data, obviously only on your end!, and create a new file called "filteredPayment.json", if you dont want it to export in a .json you can change this at line 39!
 <br/><br/>
 Dont forget to ⭐ and if you need more help feel free to contact me on discord 𝕷𝖚𝖈𝖆#0001 or on Twitter [@pxCaptcha](https://twitter.com/pxCaptcha)
